@@ -1,2 +1,2 @@
-# masterpython
-Python Journey
+# Python Journey
+
